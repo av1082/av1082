@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @av1082
 - 👀 I’m interested in creating mobile applications that are user friendly and accessible to all!
-- 🌱 I’m currently learning more about React Native and Flutter
+- 🌱 I’m currently learning more about React Hooks and Typescript
 - 📫 How to reach me: https://www.linkedin.com/in/anna-vaigast/
 
 <!---
